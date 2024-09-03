@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Buy list</string>
+    <string name="no_products">Products not found</string>
+    <string name="buy">Buy</string>
+    <string name="purchased">Purchased</string>
+    <string name="delete_item">Delete purchased item</string>
+    <string name="create">Create</string>
+    <string name="buy_cart">Shopping Cart</string>
+    <string name="product">Product</string>
+</resources>
